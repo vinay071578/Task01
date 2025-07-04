@@ -51,7 +51,7 @@ def retrieve_database():
   
 if __name__ == "__main__":  
     guiWindow = tk.Tk()  
-    guiWindow.title("To-Do List Manager - SHUBHAM"")  
+    guiWindow.title("To-Do List Manager - VINAY"")  
     guiWindow.geometry("500x450+750+250")  
     guiWindow.resizable(0, 0)  
     guiWindow.configure(bg = "#FAEBD7")  
